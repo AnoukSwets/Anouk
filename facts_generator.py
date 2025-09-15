@@ -13,7 +13,8 @@ def class_contributions():
         
         # 👇 Students, add your entries here:
         # ...
-
+        ("Anouk", "ik heb een konijn"),                 
+        
     ]
 
     return contributions
